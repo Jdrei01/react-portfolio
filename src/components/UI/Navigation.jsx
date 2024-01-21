@@ -1,6 +1,6 @@
 import { Navbar, Nav, Container } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap';
-// import '../../styles/Header.css';
+import '../../styles/Header.css';
 
 export default function Navigation({ links }) {
   return (
