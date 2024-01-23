@@ -2,26 +2,30 @@ import { Container } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import { FaGithub, FaStackOverflow, FaLinkedinIn } from 'react-icons/fa';
 
+// Footer to display on every page.
 export default function Footer() {
   return (
     <footer>
-      <Container className="text-center">
+      <Container
+        className="position-absolute text-center"
+        style={{ bottom: '2rem' }}
+      >
         <Link
-          className="m-2 h3"
+          className="h2"
           to="https://github.com/Jdrei01"
           target="_blank"
         >
           <FaGithub />
         </Link>
         <Link
-          className="m-2 h3"
-          to="https://www.linkedin.com/"
+          className="m-4 h2"
+          to="https://www.linkedin.com/in/jdrei01/"
           target="_blank"
         >
           <FaLinkedinIn />
         </Link>
         <Link
-          className="m-2 h3"
+          className="h2"
           to=""
           target="_blank"
         >
