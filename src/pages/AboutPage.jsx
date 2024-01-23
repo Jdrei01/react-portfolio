@@ -1,5 +1,5 @@
 import { Row, Col, Image } from 'react-bootstrap';
-// import hero from '../assets/images/';
+import hero from '../assets/images/placeholder.png';
 
 export default function AboutPage() {
   return (
