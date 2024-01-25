@@ -11,10 +11,7 @@ export default function AboutPage() {
         <Col lg={8} xs={12} className='m-auto'>
           <h2 className='mb-4'>About me</h2>
           <p className='h5' style={{ lineHeight:'1.5'}}>
-            Hello, I am a web developer....
-          </p>
-          <p className='h5' style={{ lineHeight:'1.5'}}>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae minima aspernatur recusandae reiciendis sequi odit ratione necessitatibus pariatur repellat assumenda iure laudantium, eveniet aliquid asperiores qui. Rerum corporis neque inventore?
+            Hello, I am currently a student learning how to be a web developer with a Bachelor of Science degree in Kinesiology. I enjoy learning new things and i decided to learn how to code because i'm intrigued by it. Coding is hard but i like facing new challenges if i know i can grow into a better person than i was yesterday.
           </p>
         </Col>
       </Row>
