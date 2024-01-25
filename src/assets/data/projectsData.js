@@ -1,6 +1,6 @@
-import sports from "../images/placeholder.png";
-import social from "../images/placeholder.png";
-import signup from "../images/placeholder.png";
+import sports from "../images/webdev5.png";
+import social from "../images/webdev4.png";
+import signup from "../images/webdev3.png";
 
 const data = [
   {

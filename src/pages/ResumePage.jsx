@@ -1,6 +1,6 @@
 import { Card, Row, Col, ListGroup } from 'react-bootstrap';
 import '../styles/Resume.css'
-// import resume from '../assets/images/'
+import resume from '../assets/images/placeholder.png'
 import { MdOutlineFileDownload } from "react-icons/md";
 
 export default function ResumePage() {
